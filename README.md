@@ -15,6 +15,7 @@ follow the ball
 5. The room is divided into several areas, let the robot judge which area it locates
 6. Write a launch file to roslaunch all of above programs at once
 7. Additional work: face recognition, automatic self-exploration
+
 Basic project requirement is fulfilled with additional work including face recognition and automatic self-exploration (see in task 3 and task 4).
 
 The above tasks are implemented in Python on Ubuntu 14.04 with the following setup:
